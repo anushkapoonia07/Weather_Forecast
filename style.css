@@ -1,0 +1,50 @@
+body{
+  background-color:rgb(112, 26, 134);
+  background-repeat: no-repeat;
+  height: 40.1rem;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+input{
+  outline: none;
+  opacity:0.40;
+  background-color:rgb(208, 145, 224);
+  margin-top: 8%;
+  margin-bottom: 20px;
+  padding: 6px;
+  font-size: 20px;
+  text-align: center;
+  width: 30%;
+  border-bottom:4px solid rgb(224, 108, 66);
+  border-radius: 8px 0px 8px 0px;
+}
+.location{
+  font-size: 50px;
+  font-family: sans-serif;
+}
+.time{
+  margin-top: 5px;
+  font-family: sans-serif;
+  font-size: 13px;
+}
+.temperature{
+  font-size: 90px;
+  font-weight: 700;
+  text-shadow: 4px 4px black ;
+  font-family: sans-serif;
+  margin-top: 30px;
+}
+.type{
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 600;
+  margin-top: 10px;
+}
+.celsius{
+  font-size: 18px;
+  font-family: sans-serif;
+  margin-top: 5px;
+  text-shadow: 2px 2px black;
+}
